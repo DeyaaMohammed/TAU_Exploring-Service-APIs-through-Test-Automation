@@ -1,0 +1,29 @@
+1. What does API stand for?
+[ ] a- Application Protection Interface
+[x] b- Application Programming Interface
+[ ] c- Application Parameter Interface
+[ ] d- Application Payload Interface
+
+2. Who are the target “end users” for an API?
+[ ] a- Websites
+[ ] b- Consumers
+[x] c- Developers
+[ ] d- Bots
+
+3. Why is it important to separate API testing from UI testing?
+[ ] a- Because UI testing is too difficult
+[ ] b- Because APIs are dependent on UIs
+[ ] c- Because you can’t always see what an API is doing
+[x] d- Because the API can potentially be accessed outside of the UI
+
+4. What API information is exposed in Web Developer Tools?
+[ ] a- Request headers
+[ ] b- Response body
+[ ] c- Response cookies
+[x] d- All of the above
+
+5. How does a proxy tool work?
+[x] a- By sitting between your mobile device your internet connection
+[ ] b- By logging all your mobile requests
+[ ] c- By querying the target service
+[ ] d- By exposing your information

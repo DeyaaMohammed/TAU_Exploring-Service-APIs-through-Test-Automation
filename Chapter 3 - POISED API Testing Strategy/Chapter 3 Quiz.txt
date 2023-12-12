@@ -1,0 +1,29 @@
+1. How do you access a Postman variable?
+[ ] a- By entering the variable name as [[var]]
+[x] b- By entering the variable name as {{var}}
+[ ] c- By entering the variable name as ${var}
+[ ] d- By entering the variable name as _var_
+
+2. What could potentially be entered as a numeric parameter in a JSON request body?
+[ ] a- null
+[ ] b- “abc”
+[ ] c- 9223372036854775807
+[x] d- All of the above
+
+3. What does a Cross-site scripting attack do?
+[ ] a- Injects a script that is executed on the server
+[x] b- Injects a script that is executed on the client
+[ ] c- Retrieves hidden data from a database
+[ ] d- Exposes passwords on the server
+
+4. What is the best HTTP response code for a POST request with incorrect parameters?
+[ ] a- 200 OK
+[ ] b- 404 Not Found
+[x] c- 400 Bad Request
+[ ] d- 500 Internal Server Error
+
+5. What can you use in Postman to iterate a request 1000 times?
+[x] a- Collection Runner
+[ ] b- History
+[ ] c- Test script
+[ ] d- Local Environment

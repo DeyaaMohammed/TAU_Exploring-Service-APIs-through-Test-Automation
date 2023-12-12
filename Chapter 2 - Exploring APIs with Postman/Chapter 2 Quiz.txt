@@ -1,0 +1,29 @@
+1. What can you use to get API information from Web Developer Tools into Postman?
+[ ] a- Copy all as HAR
+[ ] b- Copy URL
+[x] c- Copy as cURL
+[ ] d- Copy Request Headers
+
+2. How can you organize requests in Postman?
+[x] a- With Collections
+[ ] b- In the History tab
+[ ] c- Save as JSON
+[ ] d- Export to File
+
+3. What is the difference between a POST and a PUT?
+[ ] a- Making the same request multiple times with POST will result in the same response, but PUT could be different each time
+[x] b- PUT is used to update data while POST can be used to create new data
+[ ] c- PUT can update a resource with partial information, but POST cannot
+[ ] d- PUT is only for creating resources and POST is only for modifying
+
+4. Where are query parameters stored in a GET request?
+[ ] a- In the headers
+[ ] b- In the request body
+[ ] c- As a cookie
+[x] d- In the URL
+
+5. What is the Restful Booker API best used for?
+[ ] a- Supporting hotel booking sites
+[ ] b- Demonstrating good API design
+[x] c- Practicing API test techniques
+[ ] d- Looking up booking information

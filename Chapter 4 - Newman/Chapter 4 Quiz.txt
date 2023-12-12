@@ -1,0 +1,29 @@
+1. What programming language is used for Postman tests?
+[ ] a- Bash
+[ ] b- Python
+[ ] c- Ruby
+[x] d- JavaScript
+
+2. What will execute first in a Collection run?
+[ ] a- Pre-request scripts in the History tab
+[ ] b- Pre-request scripts at the Folder level
+[x] c- Pre-request scripts at the Collection level
+[ ] d- Pre-request scripts at the Request level
+
+3. Why is it useful to create a new API resource before running tests?
+[x] a- So you have an expected result for your action
+[ ] b- So you can populate the database
+[ ] c- To compare one resource against another
+[ ] d- To make sure resource creation works
+
+4. What are some of the JavaScript libraries available in Postman?
+[ ] a- Lodash
+[ ] b- Moment
+[ ] c- UUID
+[x] d- All of the above
+
+5. What tool can you use to run Postman collections in Jenkins?
+[ ] a- Jerry
+[x] b- Newman
+[ ] c- Elaine
+[ ] d- Kramer
